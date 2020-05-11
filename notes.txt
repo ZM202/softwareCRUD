@@ -1,0 +1,13 @@
+// Use the mental framework of "CRUD" to make routes to the 
+//following sections:
+
+// Home page
+// Read all companies (write this route first, but it should 
+//appear after Create when you're done)
+// Create new company details page
+// Update a company
+// Delete a company
+// Don't forget to add forms to the correct pages in order 
+//to create a new company and to update a company.
+
+// Push to GitHub and paste the link in your submission below.
